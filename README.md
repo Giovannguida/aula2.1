@@ -2,5 +2,6 @@
 Primeiro Trabalho
 
 Suzana Vieira.
-Brad Pitt.
+Sonia Abrão.
 Angelina Jolie.
+Gloria Pires.
