@@ -2,8 +2,5 @@
 Primeiro Trabalho
 
 Suzana Vieira.
-Ator numero 2
 Angelina Jolie.
-
-
-Ator numero 4
+ator 3
